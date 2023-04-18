@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Datos
 {
+    // Prueba
     public class AbonoD
     {
         //CnxSQL es la variable en app.config que contiene el nombre del servidor y de los datos en la base de datos
